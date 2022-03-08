@@ -1,0 +1,5 @@
+# csv
+/**/*.csv
+
+# DS
+/**/*.DS_Store
